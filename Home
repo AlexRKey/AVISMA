@@ -1,12 +1,10 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>groupName</title>
-        <link rel="stylesheet" href="CSS/general.css"/>
-        <link rel="stylesheet" href="CSS/main.css"/>
-        <script src="scripts/main.js"></script>
+        <title>AVISMA Home</title>
         <meta charset="utf-8"/>
     </head>
     <body>
+        <h1></h1>
     </body>
 </html>   
